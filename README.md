@@ -7,15 +7,15 @@
 
 ## 🚀 About Me
 
-I am a passionate and motivated CSE student with a strong interest in web development and programming. I enjoy building real-world projects and continuously improving my technical and problem-solving skills.
+I am a dedicated and motivated Computer Science Engineering student with a strong interest in web development and software programming. I focus on building practical, real-world projects to strengthen my technical skills and problem-solving abilities. I am continuously learning and adapting to new technologies to grow as a developer.
 
-* 🌱 Currently learning **Python & Data Structures (DSA)**
-* 💡 Interested in **Web Development & Software Development**
-* 🎯 Goal: To become a skilled developer and build impactful solutions
+* 🌱 Currently learning **Python and Data Structures & Algorithms (DSA)**
+* 💡 Interested in **Web Development and Software Engineering**
+* 🎯 Goal: To become a skilled developer and contribute to impactful, innovative solutions
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -23,9 +23,9 @@ I am a passionate and motivated CSE student with a strong interest in web develo
 * CSS
 * Java
 * Python (Learning)
-* C & DSA (Learning)
+* C & Data Structures (Learning)
 
-### 🧰 Tools & Skills
+### 🧰 Tools & Professional Skills
 
 * MS Word
 * MS Excel
@@ -34,26 +34,32 @@ I am a passionate and motivated CSE student with a strong interest in web develo
 
 ---
 
-## 🏆 Strengths
+## 🏆 Core Strengths
 
-* Problem Solving 🧠
-* Teamwork 🤝
-* Time Management ⏱️
-* Continuous Learning 📚
+* 🧠 Strong problem-solving ability
+* 🤝 Effective teamwork and collaboration
+* ⏱️ Good time management
+* 📚 Continuous learning mindset
 
 ---
 
 ## 📌 Projects
 
-* 🎓 Semester-Wise Marksheet System
+* 🎓 **Semester-Wise Marksheet Management System**
 * 💻 More projects coming soon...
+
+---
+
+## 🎯 Career Objective
+
+To build a strong foundation in software development and become a proficient programmer by continuously learning, developing real-world applications, and contributing to innovative technology solutions.
 
 ---
 
 ## ✨ Quote
 
-> "Learning today. Building tomorrow." 🚀
+> *“Learning today. Building tomorrow.”* 🚀
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *If you find my work valuable, feel free to explore my repositories and give a star!*
