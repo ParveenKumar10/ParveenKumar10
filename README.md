@@ -34,24 +34,6 @@ I am a passionate and motivated CSE student with a strong interest in web develo
 
 ---
 
-## 📊 GitHub Stats
-
-![Parveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username\&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🏆 Strengths
 
 * Problem Solving 🧠
@@ -65,13 +47,6 @@ I am a passionate and motivated CSE student with a strong interest in web develo
 
 * 🎓 Semester-Wise Marksheet System
 * 💻 More projects coming soon...
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: add-your-link-here
 
 ---
 
