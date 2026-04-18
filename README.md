@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Parveen Kumar
 
-🎓 Computer Science Engineering Student | IILM University
-💻 Web Development Enthusiast | Aspiring Software Developer
+Data Analyst 📊 | Power BI • Excel | Turning Data into Insights | B.Tech CSE @ IILM University
 
 ---
 
